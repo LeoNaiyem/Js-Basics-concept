@@ -7,5 +7,5 @@ function checkPrimeNumber(num){
     }
     return 'The given number is a PRIME number'
 }
-const result = checkPrimeNumber(1233);
+const result = checkPrimeNumber(57);
 console.log(result);
